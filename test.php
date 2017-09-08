@@ -25,6 +25,7 @@ function prueba(){
 
 }
 
+
 for($i=1; $i<=10; $i++){
     $global = $i;
     echo $i.' x 9 = '.prueba()."<br>";
