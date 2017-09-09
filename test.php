@@ -24,6 +24,7 @@ function prueba(){
     return $global*9;
 
 }
+//Probando cambios al agregar comentarios
 
 for($i=1; $i<=10; $i++){
     $global = $i;
