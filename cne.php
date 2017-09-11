@@ -88,5 +88,5 @@ function getRealIP()
         return isset($res['data']) && $res['data'] ? $res['data'] : false;
     }
 
-    print_r(cedula(14186540));
+    print_r(cedula('AQUI NUMERO DE CEDULA'));
 ?>
